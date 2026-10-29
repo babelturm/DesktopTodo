@@ -1,0 +1,17 @@
+# Build outputs
+/DesktopTodo.exe
+/DesktopTodo.ico
+/notification-icon*.png
+/dist/
+/work/
+/outputs/
+
+# Local task data must never be committed
+tasks.json*
+session.lock
+*.tmp
+*.user
+*.suo
+bin/
+obj/
+.vs/
